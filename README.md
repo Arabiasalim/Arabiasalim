@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arabiasalim
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on html, css and javascript
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @salimarabia821@gmail.com
 
 <!---
